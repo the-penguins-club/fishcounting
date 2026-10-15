@@ -5,7 +5,7 @@ A simple, [plain-text accounting](https://plaintextaccounting.org/) setup for [T
 ## Repository Structure
 
 ```bash
-the-penguins-club/accounting/
+fishcounting/
 ├── .env
 ├── .env.example
 ├── .gitignore
