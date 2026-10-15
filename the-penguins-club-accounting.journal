@@ -1,0 +1,27 @@
+; The Penguins Club Accounting journal
+; All balances start at zero.
+; Amounts use BDT unless otherwise specified.
+
+commodity BDT
+
+account assets
+account assets:cash
+account assets:bank
+
+account liabilities
+account liabilities:payable
+
+account equity
+account equity:opening-balances
+
+account income
+account income:donations
+account income:grants
+account income:other
+
+account expenses
+account expenses:operations
+account expenses:rent
+account expenses:supplies
+account expenses:travel
+account expenses:other
