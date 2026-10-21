@@ -1,0 +1,23 @@
+; Define accounts
+
+account assets
+account assets:cash
+account assets:bank
+
+account liabilities
+account liabilities:payable
+
+account equity
+account equity:opening-balances
+
+account income
+account income:donations
+account income:grants
+account income:other
+
+account expenses
+account expenses:operations
+account expenses:rent
+account expenses:supplies
+account expenses:travel
+account expenses:other
