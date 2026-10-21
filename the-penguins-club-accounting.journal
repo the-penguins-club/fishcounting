@@ -3,3 +3,8 @@
 ; Amounts use BDT unless otherwise specified.
 
 include accounts.journal
+
+2026-01-18 20:15:53 Domain Donation
+    ; Domain: thepenguins.club | Donated by: bdeshi | Original UTC: 2026-01-18T14:15:53.561Z
+    expenses:operations         $1.54 @ 120.91 BDT
+    income:donations           -$1.54 @ 120.91 BDT
