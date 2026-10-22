@@ -2,26 +2,9 @@
 ; All balances start at zero.
 ; Amounts use BDT unless otherwise specified.
 
-commodity BDT
+include accounts.journal
 
-account assets
-account assets:cash
-account assets:bank
-
-account liabilities
-account liabilities:payable
-
-account equity
-account equity:opening-balances
-
-account income
-account income:donations
-account income:grants
-account income:other
-
-account expenses
-account expenses:operations
-account expenses:rent
-account expenses:supplies
-account expenses:travel
-account expenses:other
+2026-01-18 20:15:53 Domain Donation
+    ; Domain: thepenguins.club | Donated by: bdeshi | Original UTC: 2026-01-18T14:15:53.561Z
+    expenses:operations         $1.54 @ 120.91 BDT
+    income:donations           -$1.54 @ 120.91 BDT
